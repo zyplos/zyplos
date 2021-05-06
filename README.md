@@ -2,7 +2,7 @@
 
 I'm a developer who likes to work with Javascript. Always picking up new interests and project ideas. Currently school takes up a lot of my time.
 
-I'm very active on Twitter. Consider giving a follow if like Javascript jokes/design.
+I'm very active on Twitter. Consider giving a follow if you like Javascript jokes/design.
 
 <p>
 <a href="https://twitter.com/Zyplos"><img src="https://img.shields.io/badge/-@Zyplos-1DA1F2?style=flat-square&amp;labelColor=fff&amp;logo=Twitter" alt="Spotify Badge"></a>
