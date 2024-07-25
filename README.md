@@ -1,32 +1,15 @@
-## Hello there! 👋
+## hello there! 👋
 
-I'm a developer who likes to work with Javascript. Always picking up new interests and project ideas. Currently school takes up a lot of my time.
+i like building stuff and this page is where i put it all
 
-I'm very active on Twitter. Consider giving a follow if you like Javascript jokes/design.
+i enjoy learning new things, particularly things that help me improve my projects (or just stuff that's just fun)
 
-<p>
-<a href="https://twitter.com/Zyplos"><img src="https://img.shields.io/badge/-@Zyplos-1DA1F2?style=flat-square&amp;labelColor=fff&amp;logo=Twitter" alt="Spotify Badge"></a>
-</p>
+i'm very active on [twitter](https://twitter.com/Zyplos). i post updates on whatever it is i'm working on at the moment and like showing off design stuff on there from time to time. you can contact me on there if you'd like.
 
-Alternatively, I'm probably online on Discord. Maybe I'm working on something right now!
+i like spending my time building stuff. in fact, maybe i'm building something right now:
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=204620732259368960)
 
 ---
 
 _Want a similar badge on your README? Check out [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge)!_
-
-<!--
-**Zyplos/Zyplos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
