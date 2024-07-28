@@ -1,5 +1,7 @@
 ## hello there! 👋
 
+![bots](./bots.png)
+
 i like building stuff and this page is where i put it all
 
 i enjoy learning new things, particularly things that help me improve my projects (or just stuff that's just fun)
@@ -8,8 +10,8 @@ i'm very active on [twitter](https://twitter.com/Zyplos). i post updates on what
 
 i like spending my time building stuff. in fact, maybe i'm building something right now:
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=204620732259368960)
+![discord status](https://discord-readme-badge.vercel.app/api?id=204620732259368960)
 
 ---
 
-_Want a similar badge on your README? Check out [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge)!_
+_want a similar badge in your README? check out [Zyplos/discord-readme-badge](https://github.com/Zyplos/discord-readme-badge)_
